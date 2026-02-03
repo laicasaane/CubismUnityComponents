@@ -1,0 +1,21 @@
+{
+  "name": "com.live2d.cubism-unity-components",
+  "displayName": "Cubism Unity Components",
+  "version": "5.5.0-beta.3",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.4"
+  },
+  "description": "Open Cubism Components for Unity.",
+  "_upm": {
+    "changelog": "https://github.com/Live2D/CubismUnityComponents/blob/develop/CHANGELOG.md"
+  },
+  "documentationUrl": "https://docs.live2d.com/en/cubism-sdk-manual/top/",
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Cubism Samples",
+      "path": "Cubism/Samples~"
+    }
+  ]
+}
